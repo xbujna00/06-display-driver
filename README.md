@@ -189,7 +189,7 @@ end architecture testbench;
 ```
 
 ### Screeenshot with simulated time waveforms:
--
+![](graph.png)
 ### Listing of VHDL architecture of the top layer
 ```vhdl
 
